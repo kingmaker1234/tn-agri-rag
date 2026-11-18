@@ -1,0 +1,22 @@
+# secrets
+.env
+*.env
+!.env.example
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# runtime data (rebuilt by the pipelines; manifest + starter pack ARE committed)
+backend/data/raw/
+backend/data/uploads/
+backend/data/vectorstore/
+backend/data/*.sqlite
+backend/data/jobs_history.json
+
+# frontend
+frontend/node_modules/
+frontend/dist/

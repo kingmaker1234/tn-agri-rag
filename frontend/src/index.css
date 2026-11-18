@@ -1,0 +1,112 @@
+@import "@fontsource/catamaran/400.css";
+@import "@fontsource/catamaran/500.css";
+@import "@fontsource/catamaran/600.css";
+@import "@fontsource/catamaran/700.css";
+@import "@fontsource/catamaran/800.css";
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Catamaran", "Noto Sans Tamil", system-ui, sans-serif;
+  --color-field: #123d2c;       /* paddy field — chrome */
+  --color-field-2: #1d5240;
+  --color-field-3: #2e7d5b;     /* dense-retrieval series */
+  --color-paper: #f2f5ef;       /* sage-tinted page */
+  --color-surface: #ffffff;
+  --color-ink: #17231c;
+  --color-muted: #5d6b61;
+  --color-faint: #8a978d;
+  --color-line: #d6ded3;
+  --color-line-soft: #e6ece3;
+  --color-turmeric: #d99a1e;    /* citations, highlights, rerank */
+  --color-turmeric-deep: #9a6a08;
+  --color-turmeric-soft: #fbefd3;
+  --color-indigo: #3b4a9e;      /* BM25 series */
+  --color-indigo-soft: #e6e9f7;
+  --color-danger: #b23a26;
+  --color-danger-soft: #f8e4df;
+  --color-rail: #123d2c;        /* navigation rail */
+  --color-rail-2: #1d5240;
+  --color-rail-ink: #f2f5ef;
+}
+
+/* Dark theme: deep field-green slate, not neutral black; greens lighten so text on them stays legible */
+[data-theme="dark"] {
+  --color-field: #7bc59f;
+  --color-field-2: #95d3b2;
+  --color-field-3: #5fb68a;
+  --color-paper: #0f1713;
+  --color-surface: #16211b;
+  --color-ink: #e3ebe5;
+  --color-muted: #a2b4a8;
+  --color-faint: #6f8377;
+  --color-line: #2a3b32;
+  --color-line-soft: #1f2d26;
+  --color-turmeric: #e8b04a;
+  --color-turmeric-deep: #f1c873;
+  --color-turmeric-soft: #3a2f16;
+  --color-indigo: #9aa6ea;
+  --color-indigo-soft: #232a4c;
+  --color-danger: #ec7a62;
+  --color-danger-soft: #3b1e18;
+  --color-rail: #0a1510;
+  --color-rail-2: #15281f;
+  --color-rail-ink: #dbe6df;
+  color-scheme: dark;
+}
+
+html, body, #root { height: 100%; }
+body {
+  margin: 0;
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+:lang(ta), .ta { line-height: 1.75; }
+
+.tnum { font-variant-numeric: tabular-nums; }
+
+@layer base {
+  :focus-visible { outline: 2px solid var(--color-turmeric); outline-offset: 2px; border-radius: 4px; }
+}
+
+/* kolam dot grid used behind empty states */
+.kolam-grid {
+  background-image: radial-gradient(circle, color-mix(in srgb, var(--color-field) 18%, transparent) 1.4px, transparent 1.6px);
+  background-size: 22px 22px;
+}
+
+/* answer prose */
+.prose-answer { max-width: 68ch; }
+.prose-answer p { margin: 0 0 .75em; }
+.prose-answer ul, .prose-answer ol { margin: 0 0 .75em; padding-left: 1.25em; }
+.prose-answer ul { list-style: disc; }
+.prose-answer ol { list-style: decimal; }
+.prose-answer li { margin: .2em 0; }
+.prose-answer strong { font-weight: 700; }
+.prose-answer h1, .prose-answer h2, .prose-answer h3 { font-weight: 800; margin: .9em 0 .35em; line-height: 1.25; }
+.prose-answer h3 { font-size: 1.05rem; }
+.prose-answer table { border-collapse: collapse; margin: .5em 0 1em; font-size: .92rem; }
+.prose-answer th, .prose-answer td { border: 1px solid var(--color-line); padding: .3em .6em; text-align: left; }
+.prose-answer code { background: var(--color-line-soft); padding: 0 .3em; border-radius: 3px; font-size: .9em; }
+
+mark.hit { background: var(--color-turmeric-soft); color: inherit; border-radius: 2px; padding: 0 1px; }
+
+/* kolam loader: a single looping line weaving through dots */
+@keyframes toast-in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+.toast-in { animation: toast-in .18s ease-out; }
+@keyframes shimmer { from { background-position: -200px 0; } to { background-position: 200px 0; } }
+.skeleton { background: linear-gradient(90deg, var(--color-line-soft), var(--color-line), var(--color-line-soft));
+  background-size: 400px 100%; animation: shimmer 1.4s linear infinite; border-radius: 6px; }
+
+@keyframes kolam-draw { from { stroke-dashoffset: 420; } to { stroke-dashoffset: 0; } }
+.kolam-path { stroke-dasharray: 420; animation: kolam-draw 1.8s ease-in-out infinite alternate; }
+@media (prefers-reduced-motion: reduce) {
+  .kolam-path, .skeleton, .toast-in { animation: none; stroke-dasharray: none; }
+  * { scroll-behavior: auto !important; }
+}
+
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-thumb { background: var(--color-line); border-radius: 10px; border: 2px solid var(--color-paper); }

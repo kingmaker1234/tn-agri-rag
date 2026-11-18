@@ -1,0 +1,4 @@
+# Optional: run embeddings / reranking locally (EMBEDDING_BACKEND=sentence-transformers,
+# RERANKER_BACKEND=cross-encoder). Pulls in PyTorch (large download).
+-r requirements.txt
+sentence-transformers>=3.0

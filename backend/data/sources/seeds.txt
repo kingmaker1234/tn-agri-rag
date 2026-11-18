@@ -1,0 +1,31 @@
+# Crawl seeds — discovered during research (Nov 2026).
+# The crawler recurses Apache "Index of /" listings and follows document links
+# on HTML pages (same host only), keeping files whose name/anchor matches the
+# agriculture keyword filter. Use: python scripts/crawl.py --seeds data/sources/seeds.txt
+#
+# --- Apache directory indexes on TNAU Agritech (hundreds of PDFs) ---
+https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+https://agritech.tnau.ac.in/govt_schemes_services/pdf/tn_schemes/
+https://agritech.tnau.ac.in/govt_schemes_services/pdf/policynotes/
+https://agritech.tnau.ac.in/govt_schemes_services/pdf/policy_notes_exten/
+https://agritech.tnau.ac.in/govt_schemes_services/pdf/policy_notes_09-10/
+https://agritech.tnau.ac.in/govt_schemes_services/pdf/forms/
+https://agritech.tnau.ac.in/govt_schemes_services/pdf/2021/
+https://agritech.tnau.ac.in/govt_schemes_services/pdf/2022/
+https://agritech.tnau.ac.in/govt_schemes_services/pdf/2023/
+https://agritech.tnau.ac.in/govt_schemes_services/pdf/2024/
+https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+https://agritech.tnau.ac.in/org_farm/pdf/
+https://agritech.tnau.ac.in/horticulture/pdf/
+https://agritech.tnau.ac.in/ta/farm_association/pdf/
+# --- HTML hub pages with document links ---
+https://agritech.tnau.ac.in/govt_schemes_services/govt_serv_schems_policy_notes.html
+https://agritech.tnau.ac.in/govt_schemes_services/govt_serv_schems_budget.html
+https://agritech.tnau.ac.in/govt_schemes_services/govt_serv_schems.html
+https://agritech.tnau.ac.in/agricultural_engineering/agriengg_schemes.html
+https://tnhorticulture.tn.gov.in/gos
+https://tnhorticulture.tn.gov.in/Migoscont
+https://tnhorticulture.tn.gov.in/gall
+https://aed.tn.gov.in/en/individual-based-subsidy-schemes
+https://iamwarm.gov.in/introduction.asp

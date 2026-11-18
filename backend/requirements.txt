@@ -1,0 +1,29 @@
+# Core install — OpenAI embeddings + LLM (no GPU, no torch, ~1 minute to install). Python 3.10–3.13.
+# --- API -----------------------------------------------------------------
+fastapi>=0.115
+uvicorn[standard]>=0.30
+python-multipart>=0.0.9
+httpx>=0.27
+python-dotenv>=1.0
+openai>=1.99                   # official SDK: Responses API, embeddings, retries/backoff
+
+# --- vector DB + retrieval ----------------------------------------------
+faiss-cpu>=1.8
+numpy>=1.26
+scipy>=1.11                    # sparse BM25
+
+# --- loaders (every file type) -------------------------------------------
+pymupdf>=1.24                  # PDF
+python-docx>=1.1               # DOCX
+python-pptx>=0.6.23            # PPTX
+openpyxl>=3.1                  # XLSX
+xlrd>=2.0                      # XLS
+pandas>=2.1                    # CSV / spreadsheets
+beautifulsoup4>=4.12
+lxml>=5.0                      # HTML / XML
+chardet>=5.0                   # encoding detection for old .txt/.csv
+
+# --- optional system tools -------------------------------------------------
+# OCR (scanned / legacy-font Tamil PDFs): pip install pytesseract pillow + Tesseract with Tamil (tesseract-ocr-tam)
+# .doc / .ppt / .odt / .rtf: LibreOffice (soffice on PATH)
+# Local models instead of OpenAI: pip install -r requirements-local.txt

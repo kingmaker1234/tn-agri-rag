@@ -1,0 +1,570 @@
+id,url,title,category,relevance,language,expected_type,origin
+S0001,https://agritech.tnau.ac.in/govt_schemes_services/pdf/1_Agriculture.pdf,1_Agriculture,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0002,https://agritech.tnau.ac.in/govt_schemes_services/pdf/2_Horticulture.pdf,2_Horticulture,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0003,https://agritech.tnau.ac.in/govt_schemes_services/pdf/3_AgrlEngg.pdf,3_AgrlEngg,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0004,https://agritech.tnau.ac.in/govt_schemes_services/pdf/4_SeedCertification.pdf,4_SeedCertification,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0005,https://agritech.tnau.ac.in/govt_schemes_services/pdf/5_Marketing.pdf,5_Marketing,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0006,https://agritech.tnau.ac.in/govt_schemes_services/pdf/7_TAWDEVA.pdf,7_TAWDEVA,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0007,https://agritech.tnau.ac.in/govt_schemes_services/pdf/ACABC-agriclinics%202010.pdf,ACABC-agriclinics 2010,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0008,https://agritech.tnau.ac.in/govt_schemes_services/pdf/AMIGS.pdf,AMIGS,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0009,https://agritech.tnau.ac.in/govt_schemes_services/pdf/Accelerated%20Irrigation%20Benefits%20Programme.pdf,Accelerated Irrigation Benefits Programme,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0010,https://agritech.tnau.ac.in/govt_schemes_services/pdf/AdditionalPulseArea.pdf,AdditionalPulseArea,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0011,https://agritech.tnau.ac.in/govt_schemes_services/pdf/BGREIGuidlines_2014-15.pdf,BGREIGuidlines_2014-15,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0012,https://agritech.tnau.ac.in/govt_schemes_services/pdf/Budget-2022-23_English_230410_145313.pdf,Budget-2022-23_English_230410_145313,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0013,https://agritech.tnau.ac.in/govt_schemes_services/pdf/Budget%2019-20.pdf,Budget 19-20,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0014,https://agritech.tnau.ac.in/govt_schemes_services/pdf/Budget%20Speech%202020-21_English.pdf,Budget Speech 2020-21_English,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0015,https://agritech.tnau.ac.in/govt_schemes_services/pdf/Budget_Speech%2021-22.pdf,Budget_Speech 21-22,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0016,https://agritech.tnau.ac.in/govt_schemes_services/pdf/Budget%20speech%202009-10.pdf,Budget speech 2009-10,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0017,https://agritech.tnau.ac.in/govt_schemes_services/pdf/CommerialCrops.pdf,CommerialCrops,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0018,https://agritech.tnau.ac.in/govt_schemes_services/pdf/Crop-year-wise-2021-22.xlsx,Crop-year-wise-2021-22,scheme_document,core,en,xlsx,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0019,https://agritech.tnau.ac.in/govt_schemes_services/pdf/Crops%20Overview%20Detail.pdf,Crops Overview Detail,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0020,https://agritech.tnau.ac.in/govt_schemes_services/pdf/DES_GUIDELINES.pdf,DES_GUIDELINES,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0021,https://agritech.tnau.ac.in/govt_schemes_services/pdf/Debt_%20waiver_%20scheme2008.pdf,Debt_ waiver_ scheme2008,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0022,https://agritech.tnau.ac.in/govt_schemes_services/pdf/Guidelines%20for%20Paddy%20Mission%20under%20NADP.pdf,Guidelines for Paddy Mission under NADP,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0023,https://agritech.tnau.ac.in/govt_schemes_services/pdf/Horticulture.pdf,Horticulture,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0024,https://agritech.tnau.ac.in/govt_schemes_services/pdf/Key%20Development_Full%20Book.pdf,Key Development_Full Book,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0025,https://agritech.tnau.ac.in/govt_schemes_services/pdf/LIghting-Scheme-through-NABARD.pdf,LIghting-Scheme-through-NABARD,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0026,https://agritech.tnau.ac.in/govt_schemes_services/pdf/MIDH_Guidelines%28final%29.pdf,MIDH_Guidelines(final),scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0027,https://agritech.tnau.ac.in/govt_schemes_services/pdf/Monsoon%20and%20Crops.pdf,Monsoon and Crops,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0028,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NFSM12102018.pdf,NFSM12102018,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0029,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NFSM_cereals.pdf,NFSM_cereals,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0030,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NFSM_cotton.pdf,NFSM_cotton,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0031,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NFSM_pulses.pdf,NFSM_pulses,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0032,https://agritech.tnau.ac.in/govt_schemes_services/pdf/Notes%20for%20kharif%20camp.pdf,Notes for kharif camp,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0033,https://agritech.tnau.ac.in/govt_schemes_services/pdf/OprationalGuidelines1822016.pdf,OprationalGuidelines1822016,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0034,https://agritech.tnau.ac.in/govt_schemes_services/pdf/POLICY-BRIEF-Nutri-garden-PROJECT-2023-DRMSK-revi_241022_150612.pdf,POLICY-BRIEF-Nutri-garden-PROJECT-2023-DRMSK-revi_241022_150612,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0035,https://agritech.tnau.ac.in/govt_schemes_services/pdf/RED%20GRAM.pdf,RED GRAM,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0036,https://agritech.tnau.ac.in/govt_schemes_services/pdf/Saffron%20Mission.pdf,Saffron Mission,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0037,https://agritech.tnau.ac.in/govt_schemes_services/pdf/Schemes%20and%20Services-%20Raising%20Agricultural%20Productivity%20and%20Making%20Farming%20Remunerative%20for%20Farmers.pdf,Schemes and Services- Raising Agricultural Productivity and Making Farming Remunerative for Farmers,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0038,https://agritech.tnau.ac.in/govt_schemes_services/pdf/TM-TerminalMarketcomplex.pdf,TM-TerminalMarketcomplex,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0039,https://agritech.tnau.ac.in/govt_schemes_services/pdf/TN%20-%20interim_budget_speech_e_2021_22.pdf,TN - interim_budget_speech_e_2021_22,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0040,https://agritech.tnau.ac.in/govt_schemes_services/pdf/TN%20agri_budget_speech_e_2022_23_0.pdf,TN agri_budget_speech_e_2022_23_0,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0041,https://agritech.tnau.ac.in/govt_schemes_services/pdf/TN%20agri_budget_speech_e_2023_24.pdf,TN agri_budget_speech_e_2023_24,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0042,https://agritech.tnau.ac.in/govt_schemes_services/pdf/TN%20agri_budget_speech_e_2024_25.pdf,TN agri_budget_speech_e_2024_25,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0043,https://agritech.tnau.ac.in/govt_schemes_services/pdf/TN%20budget_speech_e_2014_2015.pdf,TN budget_speech_e_2014_2015,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0044,https://agritech.tnau.ac.in/govt_schemes_services/pdf/TN%20fin_budget_speech_e_2017_18.pdf,TN fin_budget_speech_e_2017_18,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0045,https://agritech.tnau.ac.in/govt_schemes_services/pdf/TN%20fin_budget_speech_e_2018_19.pdf,TN fin_budget_speech_e_2018_19,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0046,https://agritech.tnau.ac.in/govt_schemes_services/pdf/TN%20fin_budget_speech_e_2019_20.pdf,TN fin_budget_speech_e_2019_20,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0047,https://agritech.tnau.ac.in/govt_schemes_services/pdf/TamilNadu_Solar_Energy_Policy_2012.pdf,TamilNadu_Solar_Energy_Policy_2012,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0048,https://agritech.tnau.ac.in/govt_schemes_services/pdf/agri_budget_speech_t_2025_26_250317_094424.pdf,agri_budget_speech_t_2025_26_250317_094424,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0049,https://agritech.tnau.ac.in/govt_schemes_services/pdf/agri_e_pn_2018_19.pdf,agri_e_pn_2018_19,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0050,https://agritech.tnau.ac.in/govt_schemes_services/pdf/agri_e_pn_2022_23.pdf,agri_e_pn_2022_23,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0051,https://agritech.tnau.ac.in/govt_schemes_services/pdf/agri_e_pn_2023_24.pdf,agri_e_pn_2023_24,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0052,https://agritech.tnau.ac.in/govt_schemes_services/pdf/agri_marketing.pdf,agri_marketing,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0053,https://agritech.tnau.ac.in/govt_schemes_services/pdf/agricultural_engineering.pdf,agricultural_engineering,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0054,https://agritech.tnau.ac.in/govt_schemes_services/pdf/agriculturaleducation_research.pdf,agriculturaleducation_research,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0055,https://agritech.tnau.ac.in/govt_schemes_services/pdf/agriculture.pdf,agriculture,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0056,https://agritech.tnau.ac.in/govt_schemes_services/pdf/agriculture_t.pdf,agriculture_t,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0057,https://agritech.tnau.ac.in/govt_schemes_services/pdf/agripolicynotes.pdf,agripolicynotes,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0058,https://agritech.tnau.ac.in/govt_schemes_services/pdf/agrlengg_schemes.pdf,agrlengg_schemes,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0059,https://agritech.tnau.ac.in/govt_schemes_services/pdf/bh1%202017%20to%2018.pdf,bh1 2017 to 18,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0060,https://agritech.tnau.ac.in/govt_schemes_services/pdf/bh1_2016_17.pdf,bh1_2016_17,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0061,https://agritech.tnau.ac.in/govt_schemes_services/pdf/bs2023_24.pdf,bs2023_24,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0062,https://agritech.tnau.ac.in/govt_schemes_services/pdf/bs202223.pdf,bs202223,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0063,https://agritech.tnau.ac.in/govt_schemes_services/pdf/bs202223_230410_145202.pdf,bs202223_230410_145202,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0064,https://agritech.tnau.ac.in/govt_schemes_services/pdf/bs_2016_17.pdf,bs_2016_17,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0065,https://agritech.tnau.ac.in/govt_schemes_services/pdf/budget%2015-16.pdf,budget 15-16,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0066,https://agritech.tnau.ac.in/govt_schemes_services/pdf/budget%2016-17.pdf,budget 16-17,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0067,https://agritech.tnau.ac.in/govt_schemes_services/pdf/budget%2017-18.pdf,budget 17-18,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0068,https://agritech.tnau.ac.in/govt_schemes_services/pdf/budget%2021-22.pdf,budget 21-22,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0069,https://agritech.tnau.ac.in/govt_schemes_services/pdf/budget%2022-23.pdf,budget 22-23,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0070,https://agritech.tnau.ac.in/govt_schemes_services/pdf/budget_speech%2024-25.pdf,budget_speech 24-25,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0071,https://agritech.tnau.ac.in/govt_schemes_services/pdf/budget%20new%2018-19.pdf,budget new 18-19,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0072,https://agritech.tnau.ac.in/govt_schemes_services/pdf/cold%20%2Chot%20wave.pdf,"cold ,hot wave",scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0073,https://agritech.tnau.ac.in/govt_schemes_services/pdf/dpo.pdf,dpo,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0074,https://agritech.tnau.ac.in/govt_schemes_services/pdf/farmmagz_eng.pdf,farmmagz_eng,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0075,https://agritech.tnau.ac.in/govt_schemes_services/pdf/farmmagz_tam.pdf,farmmagz_tam,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0076,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_extn%20recc.pdf,govt_schemes_extn recc,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0077,https://agritech.tnau.ac.in/govt_schemes_services/pdf/key_features_2015_2016.pdf,key_features_2015_2016,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0078,https://agritech.tnau.ac.in/govt_schemes_services/pdf/keybud2018.pdf,keybud2018,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0079,https://agritech.tnau.ac.in/govt_schemes_services/pdf/latest%20announcements%20of%20agrl%20dept.pdf,latest announcements of agrl dept,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0080,https://agritech.tnau.ac.in/govt_schemes_services/pdf/millet_mission.pdf,millet_mission,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0081,https://agritech.tnau.ac.in/govt_schemes_services/pdf/nadp_sap1.pdf,nadp_sap1,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0082,https://agritech.tnau.ac.in/govt_schemes_services/pdf/nadp_sap2.pdf,nadp_sap2,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0083,https://agritech.tnau.ac.in/govt_schemes_services/pdf/oil_seed_mission.pdf,oil_seed_mission,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0084,https://agritech.tnau.ac.in/govt_schemes_services/pdf/pb_agri2012-2013.pdf,pb_agri2012-2013,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0085,https://agritech.tnau.ac.in/govt_schemes_services/pdf/pf_forms.pdf,pf_forms,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0086,https://agritech.tnau.ac.in/govt_schemes_services/pdf/pf_operational_guidelines.pdf,pf_operational_guidelines,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0087,https://agritech.tnau.ac.in/govt_schemes_services/pdf/pf_technologies.pdf,pf_technologies,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0088,https://agritech.tnau.ac.in/govt_schemes_services/pdf/pn_agri1213.pdf,pn_agri1213,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0089,https://agritech.tnau.ac.in/govt_schemes_services/pdf/pn_agriengin1213.pdf,pn_agriengin1213,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0090,https://agritech.tnau.ac.in/govt_schemes_services/pdf/pn_coconut1213.pdf,pn_coconut1213,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0091,https://agritech.tnau.ac.in/govt_schemes_services/pdf/pn_extension1213.pdf,pn_extension1213,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0092,https://agritech.tnau.ac.in/govt_schemes_services/pdf/pn_horti1213.pdf,pn_horti1213,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0093,https://agritech.tnau.ac.in/govt_schemes_services/pdf/pn_marketing1213.pdf,pn_marketing1213,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0094,https://agritech.tnau.ac.in/govt_schemes_services/pdf/pn_seedorganic1213.pdf,pn_seedorganic1213,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0095,https://agritech.tnau.ac.in/govt_schemes_services/pdf/pn_statemarketingboard1213.pdf,pn_statemarketingboard1213,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0096,https://agritech.tnau.ac.in/govt_schemes_services/pdf/pn_sugar1213.pdf,pn_sugar1213,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0097,https://agritech.tnau.ac.in/govt_schemes_services/pdf/pn_tanhoda1213.pdf,pn_tanhoda1213,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0098,https://agritech.tnau.ac.in/govt_schemes_services/pdf/pn_tanhope1213.pdf,pn_tanhope1213,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0099,https://agritech.tnau.ac.in/govt_schemes_services/pdf/pn_tawdeva1213.pdf,pn_tawdeva1213,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0100,https://agritech.tnau.ac.in/govt_schemes_services/pdf/pre_kharif.pdf,pre_kharif,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0101,https://agritech.tnau.ac.in/govt_schemes_services/pdf/pulses_mission.pdf,pulses_mission,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0102,https://agritech.tnau.ac.in/govt_schemes_services/pdf/pwd_irrigation_12.pdf,pwd_irrigation_12,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0103,https://agritech.tnau.ac.in/govt_schemes_services/pdf/rep_cdap.pdf,rep_cdap,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0104,https://agritech.tnau.ac.in/govt_schemes_services/pdf/sbgf_go.pdf,sbgf_go,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0105,https://agritech.tnau.ac.in/govt_schemes_services/pdf/scheme-SPV-water-pumps.pdf,scheme-SPV-water-pumps,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0106,https://agritech.tnau.ac.in/govt_schemes_services/pdf/seed_certification.pdf,seed_certification,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0107,https://agritech.tnau.ac.in/govt_schemes_services/pdf/seed%20village%20scheme.pdf,seed village scheme,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0108,https://agritech.tnau.ac.in/govt_schemes_services/pdf/solar-pv.pdf,solar-pv,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0109,https://agritech.tnau.ac.in/govt_schemes_services/pdf/sustainableagriculture.pdf,sustainableagriculture,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0110,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tanhoda.pdf,tanhoda,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0111,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tanhope.pdf,tanhope,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0112,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tn_soil_healthcard_01.pdf,tn_soil_healthcard_01,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0113,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tn_soilhealthcard_forms.pdf,tn_soilhealthcard_forms,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0114,https://agritech.tnau.ac.in/govt_schemes_services/pdf/watershed_development.pdf,watershed_development,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0115,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_parliamentquestions.pdf,govt_schemes_parliamentquestions,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0116,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_parliamentquestions1.pdf,govt_schemes_parliamentquestions1,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0117,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_nadp_dap_Ariyalur.pdf,govt_schemes_nadp_dap_Ariyalur,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0118,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_nadp_dap_Coimbatore.pdf,govt_schemes_nadp_dap_Coimbatore,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0119,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_nadp_dap_Cuddalore.pdf,govt_schemes_nadp_dap_Cuddalore,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0120,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_nadp_dap_Dharmapuri.pdf,govt_schemes_nadp_dap_Dharmapuri,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0121,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_nadp_dap_Dindigul.pdf,govt_schemes_nadp_dap_Dindigul,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0122,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_nadp_dap_Erode.pdf,govt_schemes_nadp_dap_Erode,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0123,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_nadp_dap_Kanchipuram.pdf,govt_schemes_nadp_dap_Kanchipuram,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0124,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_nadp_dap_Kanyakumari.pdf,govt_schemes_nadp_dap_Kanyakumari,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0125,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_nadp_dap_Krishnagiri.pdf,govt_schemes_nadp_dap_Krishnagiri,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0126,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_nadp_dap_Madurai.pdf,govt_schemes_nadp_dap_Madurai,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0127,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_nadp_dap_Salem.pdf,govt_schemes_nadp_dap_Salem,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0128,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_nadp_dap_Sivagangai.pdf,govt_schemes_nadp_dap_Sivagangai,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0129,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_nadp_dap_Thanjavur.pdf,govt_schemes_nadp_dap_Thanjavur,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0130,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_nadp_dap_Theni.pdf,govt_schemes_nadp_dap_Theni,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0131,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_nadp_dap_Thiruvarur.pdf,govt_schemes_nadp_dap_Thiruvarur,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0132,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_nadp_dap_Thoothukudi.pdf,govt_schemes_nadp_dap_Thoothukudi,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0133,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_nadp_dap_Tirunelveli.pdf,govt_schemes_nadp_dap_Tirunelveli,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0134,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_nadp_dap_Tiruvallur.pdf,govt_schemes_nadp_dap_Tiruvallur,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0135,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_nadp_dap_Tiruvannamalai.pdf,govt_schemes_nadp_dap_Tiruvannamalai,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0136,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_nadp_dap_Trichy.pdf,govt_schemes_nadp_dap_Trichy,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0137,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_nadp_dap_Vellore.pdf,govt_schemes_nadp_dap_Vellore,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0138,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_nadp_dap_Villupuram.pdf,govt_schemes_nadp_dap_Villupuram,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0139,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_nadp_dap_Virudhunagar.pdf,govt_schemes_nadp_dap_Virudhunagar,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0140,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_nadp_dap_karur.pdf,govt_schemes_nadp_dap_karur,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0141,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_nadp_dap_nagapattinum.pdf,govt_schemes_nadp_dap_nagapattinum,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0142,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_nadp_dap_nammakkal.pdf,govt_schemes_nadp_dap_nammakkal,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0143,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_nadp_dap_perambalur.pdf,govt_schemes_nadp_dap_perambalur,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0144,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_nadp_dap_pudukkottai.pdf,govt_schemes_nadp_dap_pudukkottai,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0145,https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_schemes_nadp_dap_ramnathapuram.pdf,govt_schemes_nadp_dap_ramnathapuram,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0146,https://agritech.tnau.ac.in/govt_schemes_services/pdf/751economic%20survey%202017-18%20-%20vol.%20II.pdf,751economic survey 2017-18 - vol. II,report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0147,https://agritech.tnau.ac.in/govt_schemes_services/pdf/1242360972--final%20summary_pdf.pdf,1242360972--final summary_pdf,report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0148,https://agritech.tnau.ac.in/govt_schemes_services/pdf/ASI-Jan-2023-Final-copy.pdf,ASI-Jan-2023-Final-copy,report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0149,https://agritech.tnau.ac.in/govt_schemes_services/pdf/Agricultural-Prices-in-India-2022-1.pdf,Agricultural-Prices-in-India-2022-1,report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0150,https://agritech.tnau.ac.in/govt_schemes_services/pdf/Agricultural-Statistics-at-a-Glance-2022.pdf,Agricultural-Statistics-at-a-Glance-2022,report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0151,https://agritech.tnau.ac.in/govt_schemes_services/pdf/Agriculture_NSSO_2014.pdf,Agriculture_NSSO_2014,report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0152,https://agritech.tnau.ac.in/govt_schemes_services/pdf/Economic%20Survey%20Complete%20PDF.pdf,Economic Survey Complete PDF,report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0153,https://agritech.tnau.ac.in/govt_schemes_services/pdf/FHP-Publication-2021-22.pdf,FHP-Publication-2021-22,report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0154,https://agritech.tnau.ac.in/govt_schemes_services/pdf/ICAR-Vision-2030.pdf,ICAR-Vision-2030,report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0155,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NCF%20Report-05-1.pdf,NCF Report-05-1,report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0156,https://agritech.tnau.ac.in/govt_schemes_services/pdf/Pocket-2020-Final-web-file.pdf,Pocket-2020-Final-web-file,report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0157,https://agritech.tnau.ac.in/govt_schemes_services/pdf/State_of_Indian_Agriculture2017.pdf,State_of_Indian_Agriculture2017,report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0158,https://agritech.tnau.ac.in/govt_schemes_services/pdf/Vision-2050-ICAR.pdf,Vision-2050-ICAR,report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0159,https://agritech.tnau.ac.in/govt_schemes_services/pdf/atma_intro_mou.pdf,atma_intro_mou,report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0160,https://agritech.tnau.ac.in/govt_schemes_services/pdf/atma_intro_rules.pdf,atma_intro_rules,report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0161,https://agritech.tnau.ac.in/govt_schemes_services/pdf/atma_srep_modelbook.pdf,atma_srep_modelbook,report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0162,https://agritech.tnau.ac.in/govt_schemes_services/pdf/atma_srep_operation.pdf,atma_srep_operation,report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0163,https://agritech.tnau.ac.in/govt_schemes_services/pdf/echapter%20%281%29%2021%20-%2022.pdf,echapter (1) 21 - 22,report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0164,https://agritech.tnau.ac.in/govt_schemes_services/pdf/echapter_vol2%20survey%2020%20-%2021.pdf,echapter_vol2 survey 20 - 21,report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0165,https://agritech.tnau.ac.in/govt_schemes_services/pdf/gram%2C%20tur%20and%20moong%20report.pdf,"gram, tur and moong report",report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0166,https://agritech.tnau.ac.in/govt_schemes_services/pdf/grapes%2C%20bananas%2C%20mangoes%20report.pdf,"grapes, bananas, mangoes report",report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0167,https://agritech.tnau.ac.in/govt_schemes_services/pdf/livestock_NSSO_2014.pdf,livestock_NSSO_2014,report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0168,https://agritech.tnau.ac.in/govt_schemes_services/pdf/milk%2C%20egg%2C%20poultry%20report.pdf,"milk, egg, poultry report",report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0169,https://agritech.tnau.ac.in/govt_schemes_services/pdf/survery%2018%20-%2019.pdf,survery 18 - 19,report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0170,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tomato%2C%20onion%20and%20potato.pdf,"tomato, onion and potato",report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0171,https://agritech.tnau.ac.in/govt_schemes_services/pdf/revisedraft.pdf,revisedraft,report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0172,https://agritech.tnau.ac.in/govt_schemes_services/pdf/vision-2020.pdf,vision-2020,report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0173,https://agritech.tnau.ac.in/govt_schemes_services/pdf/working%20group-Agrl.%20extn.pdf,working group-Agrl. extn,report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0174,https://agritech.tnau.ac.in/govt_schemes_services/pdf/globalwarming.pdf,globalwarming,report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0175,https://agritech.tnau.ac.in/govt_schemes_services/pdf/DPO_ppt.pdf,DPO_ppt,report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0176,https://agritech.tnau.ac.in/govt_schemes_services/pdf/POLICY-BRIEF-FOOTFALL-ANALYSIS-SUBPROJECT-2023-PRI_241022_150554.pdf,POLICY-BRIEF-FOOTFALL-ANALYSIS-SUBPROJECT-2023-PRI_241022_150554,report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0177,https://agritech.tnau.ac.in/govt_schemes_services/pdf/Policy%20Brief%20-%20Cards_Arun%20Anna-1.pdf,Policy Brief - Cards_Arun Anna-1,report,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0178,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tnau%20publication_vv_February%202007.pdf,tnau publication_vv_February 2007,newsletter,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0179,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tnau%20publication_vv_January%202007.pdf,tnau publication_vv_January 2007,newsletter,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0180,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tnau_publications_newsletter_november_2007.pdf,tnau_publications_newsletter_november_2007,newsletter,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0181,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tnau%20publication_April%20Valarum%20Velanmai%202008.pdf,tnau publication_April Valarum Velanmai 2008,newsletter,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0182,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tnau%20publication_July%202008%20Valarum%20Velanmani.pdf,tnau publication_July 2008 Valarum Velanmani,newsletter,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0183,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tnau%20publication_June%202008%20Valarum%20Velanmai.pdf,tnau publication_June 2008 Valarum Velanmai,newsletter,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0184,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tnau%20publication_March%202008%20Valarum%20Velanmai.pdf,tnau publication_March 2008 Valarum Velanmai,newsletter,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0185,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tnau%20publication_May%202008Valarum%20Velanmai.pdf,tnau publication_May 2008Valarum Velanmai,newsletter,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0186,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tnau%20publication_November%202008%20Valarum%20Velanmai.pdf,tnau publication_November 2008 Valarum Velanmai,newsletter,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0187,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tnau%20publication_October2008%20Valarum%20Velanmai.pdf,tnau publication_October2008 Valarum Velanmai,newsletter,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0188,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tnau%20publication_Valarum%20Velanmai%20August%202008.pdf,tnau publication_Valarum Velanmai August 2008,newsletter,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0189,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tnau%20publication_Valarum%20Velanmai%20February%202008.pdf,tnau publication_Valarum Velanmai February 2008,newsletter,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0190,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tnau%20publication_Valarum%20Velanmai%20January%202009.pdf,tnau publication_Valarum Velanmai January 2009,newsletter,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0191,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tnau%20publication_newsletter_aug2008.pdf,tnau publication_newsletter_aug2008,newsletter,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0192,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tnau%20publication_newsletter_dec2008.pdf,tnau publication_newsletter_dec2008,newsletter,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0193,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tnau%20publication_newsletter_jan2008.pdf,tnau publication_newsletter_jan2008,newsletter,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0194,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tnau%20publication_newsletter_july2008.pdf,tnau publication_newsletter_july2008,newsletter,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0195,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tnau%20publication_newsletter_june2008.pdf,tnau publication_newsletter_june2008,newsletter,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0196,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tnau%20publication_newsletter_march2008.pdf,tnau publication_newsletter_march2008,newsletter,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0197,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tnau%20publication_newsletter_may2008.pdf,tnau publication_newsletter_may2008,newsletter,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0198,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tnau%20publication_newsletter_nov2008.pdf,tnau publication_newsletter_nov2008,newsletter,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0199,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tnau%20publication_newsletter_oct2008.pdf,tnau publication_newsletter_oct2008,newsletter,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0200,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tnau%20publication_newsletter_sept2008.pdf,tnau publication_newsletter_sept2008,newsletter,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0201,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tnaupublish_newsletter_Feb%202009.pdf,tnaupublish_newsletter_Feb 2009,newsletter,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0202,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tnaupublish_newsletter_Jan%202009.pdf,tnaupublish_newsletter_Jan 2009,newsletter,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0203,https://agritech.tnau.ac.in/govt_schemes_services/pdf/tnaupublish_newslettet_march%202009.pdf,tnaupublish_newslettet_march 2009,newsletter,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/
+S0204,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/1.%20Ariyalur%20DAP%20Final%20Report%202017-18.pdf,1. Ariyalur DAP Final Report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0205,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/2.%20Coimbatore%20DAP%20Final%20Report%202017-18.pdf,2. Coimbatore DAP Final Report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0206,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/3.%20Cuddalore%20DAP%20Final%20Report%202017-18.pdf,3. Cuddalore DAP Final Report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0207,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/4.%20Dharmapuri%20DAP%20Final%20Report%202017-18.pdf,4. Dharmapuri DAP Final Report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0208,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/5.%20Dindigul%20DAP%20Final%20report%202017-18.pdf,5. Dindigul DAP Final report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0209,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/6.%20Erode%20DAP%20Final%20Report%202017-18.pdf,6. Erode DAP Final Report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0210,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/7.%20Kancheepuram%20DAP%20Final%20Report%202017-18.pdf,7. Kancheepuram DAP Final Report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0211,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/8.%20Kannyakumari%20DAP%20Final%20Report%202017-18.pdf,8. Kannyakumari DAP Final Report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0212,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/9.%20Karur%20DAP%20Final%20Report%202017-18.pdf,9. Karur DAP Final Report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0213,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/10.%20Krishnagiri%20DAP%20Final%20Report%202017-18.pdf,10. Krishnagiri DAP Final Report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0214,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/11.%20Madurai%20DAP%20Final%20Report%202017-18.pdf,11. Madurai DAP Final Report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0215,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/12.%20Nagappattinam%20DAP%20Final%20Report%202017-18.pdf,12. Nagappattinam DAP Final Report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0216,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/13.%20Namakkal%20DAP%20Final%20Report%202017-18.pdf,13. Namakkal DAP Final Report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0217,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/14.%20Nilgiris%20DAP%20Final%20Report%202017-18.pdf,14. Nilgiris DAP Final Report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0218,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/15.%20Perambalur%20DAP%20final%20Report%202017-18.pdf,15. Perambalur DAP final Report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0219,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/16.%20Pudukkottai%20DAP%20Final%20report%202017-18.pdf,16. Pudukkottai DAP Final report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0220,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/17.%20Ramanathapuram%20DAP%20Final%20Report%202017-18.pdf,17. Ramanathapuram DAP Final Report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0221,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/18.%20Salem%20DAP%20Final%20Report%202017-18.pdf,18. Salem DAP Final Report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0222,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/19.%20Sivagangai%20DAP%20Final%20Report%202017-18.pdf,19. Sivagangai DAP Final Report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0223,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/20.%20Thanjavur%20DAP%20Final%20Report%202017-18.pdf,20. Thanjavur DAP Final Report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0224,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/21.%20Theni%20DAP%20Final%20Report%202017-18.pdf,21. Theni DAP Final Report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0225,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/22.%20Tiruvallur%20DAP%20Final%20Report%202017-18.pdf,22. Tiruvallur DAP Final Report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0226,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/23.%20Thiruvannamalai%20DAP%20Final%20Report%202017-18.pdf,23. Thiruvannamalai DAP Final Report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0227,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/24.%20Thiruvarur%20DAP%20Final%20Report%202017-18.pdf,24. Thiruvarur DAP Final Report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0228,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/25.%20Thoothukudi%20DAP%20Final%20report%202017-18.pdf,25. Thoothukudi DAP Final report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0229,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/26.%20Tirunelveli%20DAP%20Final%20Report%202017-18.pdf,26. Tirunelveli DAP Final Report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0230,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/27.%20TIruppur%20DAP%20Final%20Report%202017-18.pdf,27. TIruppur DAP Final Report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0231,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/28.%20Tiruchirappalli%20DAP%20Final%20Report%202017-18.pdf,28. Tiruchirappalli DAP Final Report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0232,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/29.%20Vellore%20DAP%20Final%20Report%202017-18.pdf,29. Vellore DAP Final Report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0233,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/30.%20Villupuram%20DAP%20Final%20Report%202017-18.pdf,30. Villupuram DAP Final Report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0234,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/31.%20Virudhunagar%20DAP%20final%20report%202017-18.pdf,31. Virudhunagar DAP final report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0235,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/32.%20SAIDP%20Final%20Report%202017-18.pdf,32. SAIDP Final Report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0236,https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/33.%20SAP%20Final%20report%202017-18.pdf,33. SAP Final report 2017-18,district_plan,core,en,pdf,directory_index:https://agritech.tnau.ac.in/govt_schemes_services/pdf/NADP/
+S0237,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/pn_extension1213ta.pdf,pn_extension1213ta,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0238,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/National%20Food%20Security%20Mission.pdf,National Food Security Mission,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0239,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/state09-10.pdf,state09-10,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0240,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/govt_schemes_6.proFORM%20A%20fertilizer%20Dealer.pdf,govt_schemes_6.proFORM A fertilizer Dealer,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0241,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/Government%20Schemes.pdf,Government Schemes,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0242,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/govt_schemes_8.Registration%20of%20insecticides.pdf,govt_schemes_8.Registration of insecticides,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0243,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/pn_tavdewa1213ta.pdf,pn_tavdewa1213ta,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0244,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/pn_marketing1213ta.pdf,pn_marketing1213ta,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0245,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/govt_schemes_5.Supply%20of%20power.pdf,govt_schemes_5.Supply of power,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0246,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/govt_schemes_10.insecticide%20sale%20licence.pdf,govt_schemes_10.insecticide sale licence,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0247,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/Guidelines-Fisheries%20-%20NMPS%20%282012-13%29%201%20.pdf,Guidelines-Fisheries - NMPS (2012-13) 1 ,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0248,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/pn_agri1213ta.pdf,pn_agri1213ta,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0249,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/agriculture_state2010-11.pdf,agriculture_state2010-11,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0250,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/pn_seed1213ta.pdf,pn_seed1213ta,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0251,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/govt_schemes_4.pdf,govt_schemes_4,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0252,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/Guidelines%20-%20Goartery%20-%20NMPS%20%282012-13%29%204%20.pdf,Guidelines - Goartery - NMPS (2012-13) 4 ,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0253,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/pn_agriengin1213ta.pdf,pn_agriengin1213ta,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0254,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/Guidelines%20-%20Dairy%20-NMPS%282012-13%29%202%20.pdf,Guidelines - Dairy -NMPS(2012-13) 2 ,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0255,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/pn_coconut1213ta.pdf,pn_coconut1213ta,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0256,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/Guidelines%20-%20Piggery%20-NMPS%282012-13%29%203%20.pdf,Guidelines - Piggery -NMPS(2012-13) 3 ,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0257,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/budgetspeech_t_2012_2013%20tamil.pdf,budgetspeech_t_2012_2013 tamil,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0258,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/7_TAWDEVA2010.pdf,7_TAWDEVA2010,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0259,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/pn_sugar1213ta.pdf,pn_sugar1213ta,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0260,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/govt_schemes_TNBudgetSpeech%202009-10_Tamil.pdf,govt_schemes_TNBudgetSpeech 2009-10_Tamil,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0261,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/govt_schemes_Welfare%20schemes.pdf,govt_schemes_Welfare schemes,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0262,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/statebudget08-09.pdf,statebudget08-09,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0263,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/pn_tanhoda1213ta.pdf,pn_tanhoda1213ta,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0264,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/Precision%20farming%20technologies%20-pdf.pdf,Precision farming technologies -pdf,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0265,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/Debt_waiver_scheme2008.pdf,Debt_waiver_scheme2008,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0266,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/Revised_Budget_Speech_t_2011_2012.pdf,Revised_Budget_Speech_t_2011_2012,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0267,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/govt_schemes_11.%20insecticide%20sale%20renewal.pdf,govt_schemes_11. insecticide sale renewal,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0268,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/aglpolicy_uniongov.pdf,aglpolicy_uniongov,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0269,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/09-10regbudget.pdf,09-10regbudget,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0270,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/pn_tanhope1213ta.pdf,pn_tanhope1213ta,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0271,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/pn_statemarketingboard1213ta.pdf,pn_statemarketingboard1213ta,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0272,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/pn_horti1213ta.pdf,pn_horti1213ta,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0273,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/revised_budget_speech_e_2016_17.pdf,revised_budget_speech_e_2016_17,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0274,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/Revised_Budget_Speech_e_2011_2012.pdf,Revised_Budget_Speech_e_2011_2012,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0275,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/keybud2017%20-%2018.pdf,keybud2017 - 18,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0276,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/keybud2018%20-%2019.pdf,keybud2018 - 19,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0277,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/keybud2016%20-%2017.pdf,keybud2016 - 17,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0278,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/Key_to_Budget_Document_2020%20-%2021.pdf,Key_to_Budget_Document_2020 - 21,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0279,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/govt_schemes_Tn%20Budget%202009-10%20english.pdf,govt_schemes_Tn Budget 2009-10 english,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0280,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/govt_schemes_state%20budget2008_english%28tn%29.pdf,govt_schemes_state budget2008_english(tn),scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0281,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/District%20Advisory%20-%20English.pdf,District Advisory - English,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0282,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/District%20Advisory%20-%20Regional.pdf,District Advisory - Regional,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0283,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/Budget_Speech_e_2010_2011.pdf,Budget_Speech_e_2010_2011,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0284,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/budgetspeech_e_2015_16.pdf,budgetspeech_e_2015_16,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0285,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/Budget_Speech%2023%20-%2024.pdf,Budget_Speech 23 - 24,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0286,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/Budget_Speech%2022%20-%2023.pdf,Budget_Speech 22 - 23,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0287,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/Budget_Speech%2020%20-%2021.pdf,Budget_Speech 20 - 21,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0288,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/Budget_Speech%2019%20-%2020.pdf,Budget_Speech 19 - 20,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0289,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/Blocklevel%20Regional%20Advisory%2020.02.2024.pdf,Blocklevel Regional Advisory 20.02.2024,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0290,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/Blocklevel%20English%20Advisory%2020.02.2024.pdf,Blocklevel English Advisory 20.02.2024,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0291,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/bh1%2024%20-%2025.pdf,bh1 24 - 25,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0292,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/bh1%2021-%2022.pdf,bh1 21- 22,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0293,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/bh1%2019%20-%2020.pdf,bh1 19 - 20,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0294,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/bh1%2023%20-%2024.pdf,bh1 23 - 24,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0295,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/Guideline_nfsmandoilseed201819to201920%202018%20-%202020%20food.pdf,Guideline_nfsmandoilseed201819to201920 2018 - 2020 food,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0296,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/2009-10interim.pdf,2009-10interim,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0297,https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/UPLOADED%20FINAL%20MASS%20MEDIA%20GUIDELINES%20.pdf,UPLOADED FINAL MASS MEDIA GUIDELINES ,scheme_document,core,ta+en,pdf,directory_index:https://agritech.tnau.ac.in/ta/govt_schemes_services/pdf/
+S0298,https://agritech.tnau.ac.in/govt_schemes_services/policynotes/2009/agri.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0299,https://agritech.tnau.ac.in/govt_schemes_services/policynotes/2010/agri.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0300,https://agritech.tnau.ac.in/govt_schemes_services/policynotes/2011/Aagriculture.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0301,https://agritech.tnau.ac.in/govt_schemes_services/pdf/2013/pn_agri2013-14.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0302,https://agritech.tnau.ac.in/govt_schemes_services/pdf/2016/agri_e_2016_17_pn.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0303,https://agritech.tnau.ac.in/govt_schemes_services/pdf/2017/agri_e_pn_2017_18.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0304,https://agritech.tnau.ac.in/govt_schemes_services/pdf/2019/agri_e_pn_2019_20.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0305,https://agritech.tnau.ac.in/govt_schemes_services/pdf/2020/agri_e_pn_2020_21.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0306,https://agritech.tnau.ac.in/govt_schemes_services/pdf/2021/agri_e_pn_2021_21.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0307,https://agritech.tnau.ac.in/govt_schemes_services/pdf/2024/agri_e_pn_2024_25.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0308,https://cms.tn.gov.in/cms_migrated/document/docfiles/agri_e_pn_2025_26.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0309,https://agritech.tnau.ac.in/govt_schemes_services/policynotes/2009/Horticulture.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0310,https://agritech.tnau.ac.in/govt_schemes_services/policynotes/2010/horti.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0311,https://agritech.tnau.ac.in/govt_schemes_services/policynotes/2011/horticulture.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0312,https://agritech.tnau.ac.in/govt_schemes_services/pdf/2013/pn_horti2013-14.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0313,https://agritech.tnau.ac.in/govt_schemes_services/policynotes/2009/agricultural_engineering.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0314,https://agritech.tnau.ac.in/govt_schemes_services/policynotes/2010/agri.eng.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0315,https://agritech.tnau.ac.in/govt_schemes_services/policynotes/2011/agri.engg.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0316,https://agritech.tnau.ac.in/govt_schemes_services/pdf/2013/pn_agrlengg2013-14.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0317,https://agritech.tnau.ac.in/govt_schemes_services/pdf/2014/agri_engg.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0318,https://agritech.tnau.ac.in/govt_schemes_services/policynotes/2009/seed_certification.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0319,https://agritech.tnau.ac.in/govt_schemes_services/policynotes/2010/seedcer.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0320,https://agritech.tnau.ac.in/govt_schemes_services/policynotes/2011/seedcertificn.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0321,https://agritech.tnau.ac.in/govt_schemes_services/pdf/2013/pn_seed_organic2013-14.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0322,https://agritech.tnau.ac.in/govt_schemes_services/pdf/2014/seed-organic.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0323,https://agritech.tnau.ac.in/govt_schemes_services/policynotes/2009/agri_marketing.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0324,https://agritech.tnau.ac.in/govt_schemes_services/policynotes/2010/ag.mark.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0325,https://agritech.tnau.ac.in/govt_schemes_services/policynotes/2011/agriculture%20marketing.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0326,https://agritech.tnau.ac.in/govt_schemes_services/pdf/2013/pn_agri_market_business2013-14.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0327,https://agritech.tnau.ac.in/govt_schemes_services/pdf/2014/agri_market.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0328,https://agritech.tnau.ac.in/govt_schemes_services/policynotes/2009/tawdeva.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0329,https://agritech.tnau.ac.in/govt_schemes_services/policynotes/2010/tawedeva.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0330,https://agritech.tnau.ac.in/govt_schemes_services/policynotes/2011/taweda.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0331,https://agritech.tnau.ac.in/govt_schemes_services/pdf/2013/pn_tawdeva2013-14.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0332,https://agritech.tnau.ac.in/govt_schemes_services/pdf/2014/water_shed_development_agency.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0333,https://agritech.tnau.ac.in/govt_schemes_services/pdf/policy_notes_exten/2009.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0334,https://agritech.tnau.ac.in/govt_schemes_services/pdf/policy_notes_exten/2010.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0335,https://agritech.tnau.ac.in/govt_schemes_services/pdf/policy_notes_exten/2011.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0336,https://agritech.tnau.ac.in/govt_schemes_services/pdf/policy_notes_exten/2012.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0337,https://agritech.tnau.ac.in/govt_schemes_services/pdf/policy_notes_exten/2013.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0338,https://agritech.tnau.ac.in/govt_schemes_services/pdf/policy_notes_exten/2014.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0339,https://agritech.tnau.ac.in/govt_schemes_services/pdf/policy_notes_exten/2015.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0340,https://agritech.tnau.ac.in/govt_schemes_services/govt_schemes_Welfare%20schemes.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0341,https://agritech.tnau.ac.in/govt_schemes_services/pdf/2010/citizen_social_welfare.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0342,https://financedept.tn.gov.in/en/my-documents/2020/07/Citizens-Guide-to-Budget-2025-2026_English.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0343,http://agritech.tnau.ac.in/bio-tech/pdf/bio_tech_policy_2014.pdf,,policy_note,core,en,pdf,link_page:govt_serv_schems_policy_notes.html
+S0344,https://agritech.tnau.ac.in/govt_schemes_services/pdf/2014/bh2014-15.pdf,,budget,core,en,pdf,link_page:govt_serv_schems_budget.html
+S0345,https://agritech.tnau.ac.in/govt_schemes_services/pdf/2013/bh1.pdf,,budget,core,en,pdf,link_page:govt_serv_schems_budget.html
+S0346,https://agritech.tnau.ac.in/govt_schemes_services/pdf/2012/budgethighlights12-13.pdf,,budget,core,en,pdf,link_page:govt_serv_schems_budget.html
+S0347,https://agritech.tnau.ac.in/govt_schemes_services/pdf/2011/bugethighlights2011.pdf,,budget,core,en,pdf,link_page:govt_serv_schems_budget.html
+S0348,https://agritech.tnau.ac.in/govt_schemes_services/budgets%202009-10.pdf,,budget,core,en,pdf,link_page:govt_serv_schems_budget.html
+S0349,https://agritech.tnau.ac.in/govt_schemes_services/TN%20agri_budget_speech_e_2024_25.pdf,,budget,core,en,pdf,link_page:govt_serv_schems_budget.html
+S0350,https://agritech.tnau.ac.in/govt_schemes_services/TN%20agri_budget_speech_e_2022_23_0.pdf,,budget,core,en,pdf,link_page:govt_serv_schems_budget.html
+S0351,https://agritech.tnau.ac.in/govt_schemes_services/TN%20-%20interim_budget_speech_e_2021_22.pdf,,budget,core,en,pdf,link_page:govt_serv_schems_budget.html
+S0352,https://agritech.tnau.ac.in/govt_schemes_services/Budget%20Speech%202020-21_English.pdf,,budget,core,en,pdf,link_page:govt_serv_schems_budget.html
+S0353,https://agritech.tnau.ac.in/govt_schemes_services/TN%20fin_budget_speech_e_2019_20.pdf,,budget,core,en,pdf,link_page:govt_serv_schems_budget.html
+S0354,https://agritech.tnau.ac.in/govt_schemes_services/revised_budget_speech_e_2016_17.pdf,,budget,core,en,pdf,link_page:govt_serv_schems_budget.html
+S0355,https://agritech.tnau.ac.in/govt_schemes_services/budgetspeech_e_2015_16.pdf,,budget,core,en,pdf,link_page:govt_serv_schems_budget.html
+S0356,https://agritech.tnau.ac.in/govt_schemes_services/TN%20budget_speech_e_2014_2015.pdf,,budget,core,en,pdf,link_page:govt_serv_schems_budget.html
+S0357,http://agritech.tnau.ac.in/budgetspeech_e_2013_2014.pdf,,budget,core,en,pdf,link_page:govt_serv_schems_budget.html
+S0358,https://agritech.tnau.ac.in/govt_schemes_services/pdf/2013/budgetspeech_e_2012_2013.pdf,,budget,core,en,pdf,link_page:govt_serv_schems_budget.html
+S0359,https://agritech.tnau.ac.in/govt_schemes_services/Revised_Budget_Speech_e_2011_2012.pdf,,budget,core,en,pdf,link_page:govt_serv_schems_budget.html
+S0360,https://agritech.tnau.ac.in/govt_schemes_services/Budget_Speech_e_2010_2011.pdf,,budget,core,en,pdf,link_page:govt_serv_schems_budget.html
+S0361,https://agritech.tnau.ac.in/govt_schemes_services/govt_schemes_Tn%20Budget%202009-10%20english.pdf,,budget,core,en,pdf,link_page:govt_serv_schems_budget.html
+S0362,https://agritech.tnau.ac.in/govt_schemes_services/govt_schemes_state%20budget2008_english(tn).pdf,,budget,core,en,pdf,link_page:govt_serv_schems_budget.html
+S0363,https://www.indiabudget.gov.in/doc/bh1.pdf,Union Budget,budget,supporting,en,pdf,link_page:govt_serv_schems_budget.html
+S0364,https://www.indiabudget.gov.in/doc/bspeech/bs2024_25(I).pdf,Union Budget,budget,supporting,en,pdf,link_page:govt_serv_schems_budget.html
+S0365,https://www.indiabudget.gov.in/doc/bspeech/bs2023_24.pdf,Union Budget,budget,supporting,en,pdf,link_page:govt_serv_schems_budget.html
+S0366,https://www.indiabudget.gov.in/doc/bspeech/bs202223.pdf,Union Budget,budget,supporting,en,pdf,link_page:govt_serv_schems_budget.html
+S0367,https://www.indiabudget.gov.in/doc/bspeech/bs202122.pdf,Union Budget,budget,supporting,en,pdf,link_page:govt_serv_schems_budget.html
+S0368,https://www.indiabudget.gov.in/doc/bspeech/bs202021.pdf,Union Budget,budget,supporting,en,pdf,link_page:govt_serv_schems_budget.html
+S0369,https://agritech.tnau.ac.in/govt_schemes_services/pdf/Agrivoltaics%20Policy%20Handbook_SV_FINAL.pdf,,guidelines,supporting,en,pdf,link_page:govt_serv_schems.html
+S0370,https://agritech.tnau.ac.in/govt_schemes_services/pdf/AgriPV%20Compendium%20Final.pdf,,guidelines,supporting,en,pdf,link_page:govt_serv_schems.html
+S0371,http://www.agritech.tnau.ac.in/pdf/legal%20guide.pdf,,guidelines,supporting,en,pdf,link_page:govt_serv_schems.html
+S0372,http://www.agritech.tnau.ac.in/pdf/NMSA_GDL.pdf,,guidelines,supporting,en,pdf,link_page:govt_serv_schems.html
+S0373,http://www.agritech.tnau.ac.in/pdf/ebookv2.pdf,,guidelines,supporting,en,pdf,link_page:govt_serv_schems.html
+S0374,http://www.agritech.tnau.ac.in/pmksy.html,,guidelines,supporting,en,html,link_page:govt_serv_schems.html
+S0375,https://agritech.tnau.ac.in/govt_schemes_services/AMMP.html,,guidelines,supporting,en,html,link_page:govt_serv_schems.html
+S0376,https://agritech.tnau.ac.in/org_farm/pdf/bio%20input%2016.08.2026.pdf,bio input 16.08.2026,policy,core,en,pdf,directory_index:https://agritech.tnau.ac.in/org_farm/pdf/
+S0377,https://agritech.tnau.ac.in/org_farm/pdf/State%20of%20Organic%20Farming%20in%20Tamil%20Nadu%20-%20KSS%202026%20Final.pdf,State of Organic Farming in Tamil Nadu - KSS 2026 Final,policy,core,en,pdf,directory_index:https://agritech.tnau.ac.in/org_farm/pdf/
+S0378,https://agritech.tnau.ac.in/org_farm/pdf/Tamil%20Nadu%20Organic%20Farming%20Policy%202023%20-%20Tamil%20Boo_230314_143324.pdf,Tamil Nadu Organic Farming Policy 2023 - Tamil Boo_230314_143324,policy,core,en,pdf,directory_index:https://agritech.tnau.ac.in/org_farm/pdf/
+S0379,https://agritech.tnau.ac.in/org_farm/pdf/Farmers%20Training%20-%20Organic%20Farming_230106_163756.pdf,Farmers Training - Organic Farming_230106_163756,policy,core,en,pdf,directory_index:https://agritech.tnau.ac.in/org_farm/pdf/
+S0380,https://agritech.tnau.ac.in/org_farm/pdf/group_certification.pdf,group_certification,policy,core,en,pdf,directory_index:https://agritech.tnau.ac.in/org_farm/pdf/
+S0381,https://agritech.tnau.ac.in/horticulture/pdf/pf_operational_guidelines.pdf,pf_operational_guidelines,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/horticulture/pdf/
+S0382,https://agritech.tnau.ac.in/horticulture/pdf/doc202271470601.pdf,doc202271470601,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/horticulture/pdf/
+S0383,https://agritech.tnau.ac.in/horticulture/pdf/Roof_top_gardening_FAQ_en.pdf,Roof_top_gardening_FAQ_en,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/horticulture/pdf/
+S0384,https://agritech.tnau.ac.in/horticulture/pdf/TN%20Agri%20State%20scenario.pdf,TN Agri State scenario,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/horticulture/pdf/
+S0385,https://agritech.tnau.ac.in/horticulture/pdf/scheme_en.pdf,scheme_en,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/horticulture/pdf/
+S0386,https://agritech.tnau.ac.in/horticulture/pdf/pf_forms.pdf,pf_forms,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/horticulture/pdf/
+S0387,https://agritech.tnau.ac.in/horticulture/pdf/Cropscenario_TamilNadu.pdf,Cropscenario_TamilNadu,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/horticulture/pdf/
+S0388,https://agritech.tnau.ac.in/horticulture/pdf/horti-opp2011.pdf,horti-opp2011,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/horticulture/pdf/
+S0389,https://agritech.tnau.ac.in/horticulture/pdf/uhdmp.pdf,uhdmp,scheme_document,core,en,pdf,directory_index:https://agritech.tnau.ac.in/horticulture/pdf/
+S0390,https://agritech.tnau.ac.in/ta/farm_association/pdf/Year-of-FPO2014.pdf,Year-of-FPO2014,fpo,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/ta/farm_association/pdf/
+S0391,https://agritech.tnau.ac.in/ta/farm_association/pdf/PRODUCERS%2BCOMPANIES%2BIN%2BTAMIL%2BNADU%2Bcopy.pdf,PRODUCERS+COMPANIES+IN+TAMIL+NADU+copy,fpo,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/ta/farm_association/pdf/
+S0392,https://agritech.tnau.ac.in/ta/farm_association/pdf/Farmer%20Club%20Federations%20%26%20Farmer%20Producer%20Organisations.pdf,Farmer Club Federations & Farmer Producer Organisations,fpo,supporting,en,pdf,directory_index:https://agritech.tnau.ac.in/ta/farm_association/pdf/
+S0393,https://agritech.tnau.ac.in/ta/farm_association/FPO%20Policy.pdf,FPO Policy,policy,core,en,pdf,directory_index:https://agritech.tnau.ac.in/ta/farm_association/
+S0394,https://agritech.tnau.ac.in/pdf/IAB_e_2026_27 (1).pdf,Agriculture Interim Budget 2026-27 speech (English),budget,core,en,pdf,web_search
+S0395,https://agritech.tnau.ac.in/pdf/agri_t_cc_2026_27.pdf,Citizen Charter 2026-27 (Tamil) - Agriculture Farmers Welfare Dept,citizen_charter,core,ta,pdf,web_search
+S0396,https://tnhorticulture.tn.gov.in/site_assets/site-pdfs/budget_speech/TN-Agri-Budget-Speech-2025-26-ENGLISH-Full-Book.pdf,TN Agriculture Budget Speech 2025-26 (English),budget,core,en,pdf,web_search
+S0397,https://agritech.tnau.ac.in/pdf/Agri-Budget-2023-24-ENG TEXT-web_230322_222845.pdf,TN Agriculture Budget 2023-24 (English),budget,core,en,pdf,web_search
+S0398,https://agritech.tnau.ac.in/pdf/agri_e_pn_2023_24_230406_092519.pdf,Policy Note 2023-24 Agriculture,policy_note,core,en,pdf,web_search
+S0399,https://cms.tn.gov.in/cms_migrated/document/docfiles/agri_e_pn_2024_25.pdf,Policy Note 2024-25 Agriculture,policy_note,core,en,pdf,web_search
+S0400,https://kygcms.tn.gov.in/cms_migrated/document/docfiles/agri_e_pn_2021_21.pdf,Policy Note 2021-22 Agriculture,policy_note,core,en,pdf,web_search
+S0401,https://financedept.tn.gov.in/en/my-documents/2020/07/d05_2022_23.pdf,Demand No.5 Policy Note 2022-23,policy_note,core,en,pdf,web_search
+S0402,https://financedept.tn.gov.in/ta/my-documents/2020/07/Publication_No_65-1.pdf,Statement of Welfare Expenditure 2025-26,budget,core,ta+en,pdf,web_search
+S0403,https://tn.gov.in/rti/proactive/agri/handbook_e_agri.pdf,RTI Handbook - Agriculture Farmers Welfare Dept 2024,report,core,en,pdf,web_search
+S0404,https://kygcms.tn.gov.in/cms_migrated/document/schemes/agriculture.pdf,Citizen Charter 2012 Agriculture,citizen_charter,core,en,pdf,web_search
+S0405,https://kygcms.tn.gov.in/cms_migrated/document/docfiles/agri_e_cc_2014_15.pdf,Citizen Charter 2014-15,citizen_charter,core,en,pdf,web_search
+S0406,https://kygcms.tn.gov.in/cms_migrated/document/docfiles/agri_e_cc_2015_16.pdf,Citizen Charter 2015-16,citizen_charter,core,en,pdf,web_search
+S0407,https://kygcms.tn.gov.in/cms_migrated/document/docfiles/agri_e_cc_2017_18.pdf,Citizen Charter 2017-18,citizen_charter,core,en,pdf,web_search
+S0408,https://kygcms.tn.gov.in/cms_migrated/document/docfiles/agri_e_cc_2018_19.pdf,Citizen Charter 2018-19,citizen_charter,core,en,pdf,web_search
+S0409,https://kygcms.tn.gov.in/cms_migrated/document/docfiles/agri_e_cc_2019_20.pdf,Citizen Charter 2019-20,citizen_charter,core,en,pdf,web_search
+S0410,https://kygcms.tn.gov.in/cms_migrated/document/docfiles/agri_e_cc_2020_21.pdf,Citizen Charter 2020-21,citizen_charter,core,en,pdf,web_search
+S0411,https://kygcms.tn.gov.in/cms_migrated/document/docfiles/agri_e_cc_2021_22.pdf,Citizen Charter 2021-22,citizen_charter,core,en,pdf,web_search
+S0412,https://kygcms.tn.gov.in/cms_migrated/document/docfiles/agri_e_cc_2022_23.pdf,Citizen Charter 2022-23,citizen_charter,core,en,pdf,web_search
+S0413,https://kygcms.tn.gov.in/cms_migrated/document/docfiles/agri_e_cc_2023_24.pdf,Citizen Charter 2023-24,citizen_charter,core,en,pdf,web_search
+S0414,https://agritech.tnau.ac.in/agriculture/agri_majorareas_agri_%20schemes_eng.pdf,Citizen Charter 2013-14 Agriculture,citizen_charter,core,en,pdf,web_search
+S0415,https://agritech.tnau.ac.in/agriculture/agri_majorareas_agri_%20schemes_eng2.pdf,Schemes under Agriculture Department with application forms,citizen_charter,core,en,pdf,web_search
+S0416,https://aed.tn.gov.in/media/filer_public/ee/86/ee860120-f0d4-4040-a65f-6114328515ce/en_2021_22.pdf,AED Citizen Charter 2021-22,citizen_charter,core,en,pdf,web_search
+S0417,https://aed.tn.gov.in/media/filer_public/08/09/08098cc6-cb69-4cd4-a935-0064c11a2046/en_2020_21.pdf,AED Citizen Charter 2020-21,citizen_charter,core,en,pdf,web_search
+S0418,https://tnhorticulture.tn.gov.in/site_assets/site-pdfs/citizen_charter/Citizen-Charter-DHPC-English.pdf,Horticulture Citizen Charter (English),citizen_charter,core,en,pdf,web_search
+S0419,https://sugarcane.res.in/wp-content/uploads/2026/02/Book-III-Schemes-Vol-I-F.pdf,"TN Agricultural Schemes Made Simple Vol I (ICAR-SBI, bilingual)",scheme_document,core,ta+en,pdf,web_search
+S0420,https://sugarcane.res.in/wp-content/uploads/2026/02/Book-III-Schemes-Vol-II-F.pdf,"TN Agricultural Schemes Made Simple Vol II (State schemes 2025-26, bilingual)",scheme_document,core,ta+en,pdf,web_search
+S0421,https://www.tnpscthervupettagam.com/assets/home/media/general/doc/Policy_Notes_-_Agriculture_and_Animal_Welfare.pdf,Policy notes summary - Agriculture,policy_note,core,en,pdf,web_search
+S0422,https://www.stationeryprinting.tn.gov.in/extraordinary/2026/185_Ex_II_1_2026.pdf,G.O.Ms.No.65 PSS Green gram Rabi 2025-26 (Gazette),go_notification,core,en,pdf,web_search
+S0423,"https://www.tnhorticulture.tn.gov.in//uploads/go_no1698899761RKVY 2023-24 2nd inst GO NADP, RAD.pdf",G.O.(2D) No.176 RKVY/NADP 2023-24,go_notification,core,en,pdf,web_search
+S0424,https://kygcms.tn.gov.in/cms_migrated/document/GO/agri_e_ms_275_ap3_2018.pdf,G.O.(Ms) No.275 Mission for Sustainable Agriculture 2018-19,go_notification,core,en,pdf,web_search
+S0425,https://kygcms.tn.gov.in/cms_migrated/document/GO/agri_e_ms_14_DPAP_2017.pdf,G.O. Mission on Sustainable Dry Land Agriculture,go_notification,core,en,pdf,web_search
+S0426,https://www.tnhorticulture.tn.gov.in//uploads/RAD 2019-20 GO 99 2nd instt.pdf,G.O. 99 RAD 2019-20 (FPO formation),go_notification,core,en,pdf,web_search
+S0427,https://tnrd.tn.gov.in/project/go_files/4_493_2015_159.pdf,G.O. Millet processing units (TNCDW),go_notification,core,en,pdf,web_search
+S0428,https://wrd.tn.gov.in/wp-content/uploads/2024/09/SPID-323-phase-IV-G-O-273.pdf,G.O. 273 TNIAMP Phase IV,go_notification,core,en,pdf,web_search
+S0429,https://www.tnhorticulture.tn.gov.in/uploads/guideline1642056640IHDS guidelines 2021-22 on 4.10.2021.pdf,IHDS Implementation Guidelines 2021-22,guidelines,core,en,pdf,web_search
+S0430,https://tnhorticulture.tn.gov.in/uploads/NADP 2020-21 guidelines.pdf,NADP 2020-21 Guidelines (Horticulture),guidelines,core,en,pdf,web_search
+S0431,https://tnhorticulture.tn.gov.in/uploads/TNIAMP Guidelines - 2020-21.pdf,TNIAMP Guidelines 2020-21,guidelines,core,en,pdf,web_search
+S0432,https://www.tnhorticulture.tn.gov.in/uploads/guideline1672052137PMFBY @ website NEW.pdf,PMFBY in Tamil Nadu (Horticulture),guidelines,core,en,pdf,web_search
+S0433,https://agritech.tnau.ac.in/pdf/66617733-Tamil-Nadu-Organic-Farming-Policy-2023_230315_093042.pdf,Tamil Nadu Organic Farming Policy 2023,policy,core,en,pdf,web_search
+S0434,https://agritech.tnau.ac.in/agricultural_engineering/pdf/1c453260-ec2e-44ec-a5dc-aa298a5e8d92.pdf,AED innovative machinery under SMAM (Jan 2026),guidelines,core,en,pdf,web_search
+S0435,https://pmkusum.mnre.gov.in/assets/pdf/Agencies%20component%20B/Tamil%20Nadu_13.10.2022.docx,PM-KUSUM Component B Tamil Nadu application flow (DOCX),guidelines,core,en,docx,web_search
+S0436,https://www.des.tn.gov.in/sites/default/files/2021-01/04%20AGRICULTURE.doc,Statistical Handbook - Agriculture tables (DOC),dataset,core,en,doc,web_search
+S0437,https://agritech.tnau.ac.in/govt_schemes_services/pdf/2013/pn_tanhoda2013-14.pdf,TANHODA Policy Note 2013-14,policy_note,core,en,pdf,web_search
+S0438,https://agritech.tnau.ac.in/horticulture/pdf/policy notes/horti-10.pdf,Horticulture Policy Note chapter 2010,policy_note,core,en,pdf,web_search
+S0439,https://agritech.tnau.ac.in/govt_schemes_services/Binder1.pdf,Agricultural Marketing schemes,scheme_document,core,en,pdf,web_search
+S0440,https://agritech.tnau.ac.in/hrd/pdf/tn_schemes/agri_marketing.pdf,Agricultural Marketing & Agri Business chapter,scheme_document,core,en,pdf,web_search
+S0441,https://agritech.tnau.ac.in/agricultural_marketing/pdf/ag.mark10.pdf,Agri Marketing chapter 2010,scheme_document,core,en,pdf,web_search
+S0442,https://agritech.tnau.ac.in/agricultural_marketing/pdf/agri_mkg-09.pdf,Agri Marketing chapter 2009,scheme_document,core,en,pdf,web_search
+S0443,https://kygcms.tn.gov.in/cms_migrated/document/press_release/pr200123_137.pdf,Press release - FPO promotion in TN,news,core,en,pdf,web_search
+S0444,https://old.tnrtp.org/wp-content/uploads/2022/09/10_PG_Guidelines-English.pdf,VKP Producer Group guidelines,guidelines,supporting,en,pdf,web_search
+S0445,https://old.tnrtp.org/wp-content/uploads/2022/09/07_PC_Guidelines-English-1.pdf,VKP Producer Collective guidelines,guidelines,supporting,en,pdf,web_search
+S0446,"https://www.plantarchives.org/article/246 AGROFORESTRY-POLICY-OF-TAMIL-NADU-INDIA-A-REVIEW-OF-CHALLENGES,-STRATEGIES-AND-FUTURE-DIRECTIONS.pdf",Agroforestry Policy of Tamil Nadu (2026) - review,report,supporting,en,pdf,web_search
+S0447,https://iamwarm.gov.in/PDF/Project/TN-IAMP-PAD.pdf,TN-IAMP Project Appraisal Document (World Bank),report,core,en,pdf,web_search
+S0448,https://iamwarm.gov.in/PDF/Project/TN-IAMP-PIP.pdf,TN-IAMP Project Implementation Plan,report,core,en,pdf,web_search
+S0449,https://www.iamwarm.gov.in/PDF/Report/Audit/LF-Audit-Report-2024-25.pdf,TN-IAMP TNAU audit 2024-25,report,supporting,en,pdf,web_search
+S0450,https://iamwarm.gov.in/iamwarm/old/pdf/Annual Report 2012-13.pdf,IAMWARM Annual Report 2012-13,report,supporting,en,pdf,web_search
+S0451,https://www.iamwarm.gov.in/IAMWARM/OLD/pdf/Annualreport 2009-10.pdf,IAMWARM Annual Report 2009-10,report,supporting,en,pdf,web_search
+S0452,https://iamwarm.gov.in/iamwarm/old/pdf/PAD.pdf,IAMWARM PAD 2006,report,supporting,en,pdf,web_search
+S0453,https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/aug/doc2025811604501.pdf,PIB - PMFBY explainer Aug 2025,central_scheme,core,en,pdf,web_search
+S0454,https://rsdebate.nic.in/bitstream/123456789/746393/1/PQ_262_08122023_U664_p169_p170.pdf,Rajya Sabha Q - PMFBY in Tamil Nadu,central_scheme,core,en,pdf,web_search
+S0455,https://rsdebate.nic.in/bitstream/123456789/744682/1/PQ_262_12122023_U1094_p459_p462.pdf,Rajya Sabha Q - PM-KUSUM in Tamil Nadu,central_scheme,core,en,pdf,web_search
+S0456,https://eparlib.sansad.in/bitstream/123456789/2504760/1/AU3014.pdf,Lok Sabha Q - organic farming incl. Tamil Nadu,central_scheme,core,en,pdf,web_search
+S0457,https://eparlib.nic.in/bitstream/123456789/953998/1/AU3851.pdf,Lok Sabha Q - drip irrigation Tamil Nadu,central_scheme,core,en,pdf,web_search
+S0458,https://www.nabard.org/auth/writereaddata/tender/2804235640SFP_TN.pdf,NABARD State Focus Paper Tamil Nadu 2023-24,report,core,en,pdf,web_search
+S0459,https://www.tnagrisnet.tn.gov.in/home/about,Agrisnet - Department profile,scheme_page,core,en,html,web_search
+S0460,https://www.tnagrisnet.tn.gov.in/HHBM/scheme-details,Agrisnet - active schemes 2026-27,scheme_page,core,en,html,web_search
+S0461,https://www.tnagrisnet.tn.gov.in/people_app/goScheme/pending_ajax_list,Agrisnet - scheme list (JSON),scheme_page,core,en,html,web_search
+S0462,https://tnagrisnet.tn.gov.in/dashboard/book,Salient Statistics on Agriculture 2021,scheme_page,core,en,html,web_search
+S0463,https://spc.tn.gov.in/?p=2273,State Planning Commission - Agriculture policy & FPO policy,scheme_page,core,en,html,web_search
+S0464,https://agritech.tnau.ac.in/govt_schemes_services/govt_serv_schems_budget.html,TNAU - Budget documents index,scheme_page,core,en,html,web_search
+S0465,https://agritech.tnau.ac.in/govt_schemes_services/govt_serv_schems_policy_notes.html,TNAU - Policy notes index,scheme_page,core,en,html,web_search
+S0466,https://agritech.tnau.ac.in/govt_schemes_services/govt_serv_schems.html,TNAU - Government schemes & services,scheme_page,core,en,html,web_search
+S0467,https://agritech.tnau.ac.in/govt_schemes_services/govt_serv_schems_other_schemes_services.html,TNAU - Other schemes & services,scheme_page,core,en,html,web_search
+S0468,https://agritech.tnau.ac.in/govt_schemes_services/govt_serv_schems_nadp_tn_11.html,NADP in Tamil Nadu - mechanisation,scheme_page,core,en,html,web_search
+S0469,https://agritech.tnau.ac.in/govt_schemes_services/govt_serv_schems_nadp_tnau%20_mechanisation.html,NADP mechanisation guidelines,scheme_page,core,en,html,web_search
+S0470,https://agritech.tnau.ac.in/seed_certification/seed_tech%20_Seed%20Schemes.html,Seed schemes (TN),scheme_page,core,en,html,web_search
+S0471,https://agritech.tnau.ac.in/agricultural_engineering/agriengg_govt_subsidy.html,Agri engineering subsidy,scheme_page,core,en,html,web_search
+S0472,https://agritech.tnau.ac.in/agricultural_engineering/agriengg_govt_schemes12.html,Agri engineering schemes,scheme_page,core,en,html,web_search
+S0473,https://agritech.tnau.ac.in/agricultural_engineering/agriengg_schemes.html,Agri engineering schemes (central/state),scheme_page,core,en,html,web_search
+S0474,https://agritech.tnau.ac.in/agricultural_engineering/agriengg_govt_subsidy%20development.html,NADP machinery subsidy 2013-14,scheme_page,core,en,html,web_search
+S0475,https://agritech.tnau.ac.in/agricultural_marketing/agrimark_Farmers%20market.html,Uzhavar Sandhai (farmers markets),scheme_page,core,en,html,web_search
+S0476,https://agritech.tnau.ac.in/ta/govt_schemes_services/govt_serv_schemes_ta.html,அரசு திட்டங்கள் & சேவைகள் (TNAU),scheme_page,core,ta,html,web_search
+S0477,https://agritech.tnau.ac.in/ta/govt_schemes_services/govt_serv_schems_nadp_tnau_agriclinic_ta.html,துல்லிய பண்ணையத் திட்டம்,scheme_page,core,ta,html,web_search
+S0478,https://agritech.tnau.ac.in/ta/govt_schemes_services/govt_serv_schemes_policynotes_tn_ta.html,கொள்கை விளக்கக் குறிப்பு (TNAU),scheme_page,core,ta,html,web_search
+S0479,https://agritech.tnau.ac.in/ta/govt_schemes_services/govt_serv_schems_nadp_district_ta.html,மாவட்ட அளவிலான வேளாண் திட்டம்,scheme_page,core,ta,html,web_search
+S0480,https://agritech.tnau.ac.in/agricultural_engineering/agriengg_govt_subsidy_ta.html,வேளாண் பொறியியல் மானியம்,scheme_page,core,ta,html,web_search
+S0481,https://agritech.tnau.ac.in/ta/expert_system/paddy/Schemes.html,நெல் - திட்டங்கள்,scheme_page,core,ta,html,web_search
+S0482,https://agritech.tnau.ac.in/ta/banking/crbank_nabard_govtsponceredschemes_ta.html,அரசு மானியம் பெறும் திட்டங்கள் (NABARD),scheme_page,core,ta,html,web_search
+S0483,https://aed.tn.gov.in/en/individual-based-subsidy-schemes,AED - Individual based subsidy schemes,scheme_page,core,en,html,web_search
+S0484,https://aed.tn.gov.in/en/schemes/agricultural-mechanisation/sub-mission-on-agricultural-mechanisation,AED - SMAM,scheme_page,core,en,html,web_search
+S0485,https://aed.tn.gov.in/en/schemes/post-harvest-technology/dvam,AED - Distribution of value addition machinery,scheme_page,core,en,html,web_search
+S0486,https://aed.tn.gov.in/en/schemes/special-schemes/kagovvt,AED - KAVIADP,scheme_page,core,en,html,web_search
+S0487,https://aed.tn.gov.in/en/about-us/accomplishment,AED - Accomplishments,scheme_page,core,en,html,web_search
+S0488,https://tnhorticulture.tn.gov.in/Ihds,Horticulture - State Horticulture Development Scheme,scheme_page,core,en,html,web_search
+S0489,https://tnhorticulture.tn.gov.in/Cmrvppgo,Horticulture - CM Rural Vegetable Production Programme GOs,scheme_page,core,en,html,web_search
+S0490,https://tnhorticulture.tn.gov.in/Migoscont,Horticulture - Micro irrigation GOs,scheme_page,core,en,html,web_search
+S0491,https://tnhorticulture.tn.gov.in/gos,Horticulture - Government Orders,scheme_page,core,en,html,web_search
+S0492,https://tnhorticulture.tn.gov.in/gall,Horticulture - NHM documents,scheme_page,core,en,html,web_search
+S0493,https://tnhorticulture.tn.gov.in/Public_advisory,Horticulture - Public advisory,scheme_page,core,en,html,web_search
+S0494,https://www.tnhorticulture.tn.gov.in/applications,Horticulture - applications,scheme_page,core,en,html,web_search
+S0495,https://agrimark.tn.gov.in/,Agricultural Marketing & Agri Business Dept,scheme_page,core,en,html,web_search
+S0496,https://pmkusum.tn.gov.in/TN/landing.html,PM-KUSUM Tamil Nadu portal,scheme_page,core,en,html,web_search
+S0497,https://iamwarm.gov.in/introduction.asp,TN-IAMP introduction,scheme_page,core,en,html,web_search
+S0498,https://tn.data.gov.in/catalog/statistical-hand-book-2020-agriculture,OGD TN - Statistical Handbook 2020 Agriculture,scheme_page,core,en,html,web_search
+S0499,https://coimbatore.nic.in/?p=42734,Coimbatore - Horticulture schemes,scheme_page,core,en,html,web_search
+S0500,https://coimbatore.nic.in/?p=53933,Coimbatore - PMFBY Kharif 2026-27,scheme_page,core,en,html,web_search
+S0501,https://coimbatore.nic.in/district-collector-urges-farmers-to-insure-kharif-season-crops-under-pradhan-mantri-fasal-bima-yojana-for-2026-27/,Coimbatore - PMFBY 2026-27 press note,scheme_page,core,en,html,web_search
+S0502,https://dharmapuri.nic.in/?p=29354,Dharmapuri - Horticulture schemes & subsidy table,scheme_page,core,en,html,web_search
+S0503,https://thanjavur.nic.in/?p=29927,Thanjavur - Horticulture schemes,scheme_page,core,en,html,web_search
+S0504,https://ariyalur.nic.in/?p=50172,Ariyalur - Agricultural Engineering schemes,scheme_page,core,en,html,web_search
+S0505,https://nilgiris.nic.in/?p=56160,Nilgiris - CM Farmers Welfare Service Centre scheme,scheme_page,core,en,html,web_search
+S0506,https://www.myscheme.gov.in/schemes/obdtdaattnau,myScheme - Block demonstration maize (TN),scheme_page,core,en,html,web_search
+S0507,https://www.myscheme.gov.in/schemes/smsopm,myScheme - Seed multiplication scheme (TN),scheme_page,core,en,html,web_search
+S0508,https://www.myscheme.gov.in/schemes/domoppe,myScheme - Plant protection equipment (TN),scheme_page,core,en,html,web_search
+S0509,https://www.myscheme.gov.in/schemes/domafoc,myScheme - Free minikits (TN),scheme_page,core,en,html,web_search
+S0510,https://www.myscheme.gov.in/schemes/ttf,myScheme - Training to farmers maize (TN),scheme_page,core,en,html,web_search
+S0511,https://www.myscheme.gov.in/schemes/obdopmtig,myScheme - Polythene mulch groundnut demo (TN),scheme_page,core,en,html,web_search
+S0512,https://www.myscheme.gov.in/schemes/pocs,myScheme - Production of certified seeds (TN),scheme_page,core,en,html,web_search
+S0513,https://www.myscheme.gov.in/schemes/ft,myScheme - Farmers training (TN),scheme_page,core,en,html,web_search
+S0514,https://www.myscheme.gov.in/schemes/mns,myScheme - Micro nutrient spray (TN),scheme_page,core,en,html,web_search
+S0515,https://www.myscheme.gov.in/schemes/tfppt,myScheme - Pulses production training (TN),scheme_page,core,en,html,web_search
+S0516,https://myscheme.gov.in/hi/schemes/pcaardfh,myScheme - PCARD bank horticulture loan (TN),scheme_page,core,en,html,web_search
+S0517,https://www.myscheme.gov.in/hi/schemes/vcfrsk,myScheme - Contract farming visit (TN),scheme_page,core,en,html,web_search
+S0518,https://www.publicservicesmap.in/schemes/organizing-block-demonstration-through-department-and-also-through-tnau--obdtdaattnau,Block demonstration maize,scheme_page,core,en,html,web_search
+S0519,https://www.publicservicesmap.in/schemes/seed-multiplication-scheme-of-paddy%2C-millets%2C-pulses%2C-oilseeds-and-cotto--smsopm?lang=en,Seed multiplication scheme,scheme_page,core,en,html,web_search
+S0520,https://www.startupgrantsindia.com/providers/department-of-agricultural-marketing-agri-business-government-of-tamil-nadu/grant-for-agri-tech-startups,Agri-tech startup grant (G.O. June 2025),scheme_page,core,en,html,web_search
+S0521,https://indiaenvironmentportal.org.in/reports-and-documents/tamil-nadu-organic-farming-policy-2023,Organic farming policy 2023 (portal),scheme_page,core,en,html,web_search
+S0522,https://en.vikaspedia.in/viewcontent/health/nutrition/state-missions-and-initiatives-to-promote-millets/tamil-nadu-millets-mission?lgn=en,Tamil Nadu Millets Mission,scheme_page,core,en,html,web_search
+S0523,https://en.vikaspedia.in/viewcontent/health/nutrition/state-missions-and-initiatives-to-promote-millets/mission-on-sustainable-dry-land-agriculture-tamil-nadu?lgn=en,Mission on Sustainable Dry Land Agriculture,scheme_page,core,en,html,web_search
+S0524,https://en.wikipedia.org/wiki/Uzhavar_Santhai,Uzhavar Santhai (Wikipedia),scheme_page,core,en,html,web_search
+S0525,https://pib.gov.in/PressReleasePage.aspx?PRID=1639414,PIB Chennai - PM-KUSUM 70% subsidy,scheme_page,core,en,html,web_search
+S0526,https://www.dtnext.in/news/tamilnadu/tn-assembly-minister-vinoth-presents-tvk-governments-first-agriculture-budget,Agri Budget 2026-27 presented (TVK govt),news,core,en,html,web_search
+S0527,https://www.dtnext.in/news/tamilnadu/tn-agri-budget-2026-price-at-its-root-not-rice,Agri Budget 2026-27 analysis,news,core,en,html,web_search
+S0528,https://www.dtnext.in/news/tamilnadu/tn-agri-budget-2026-mechanisation-drive-to-get-rs-227-crore-fillip,Agri Budget 2026-27 mechanisation,news,core,en,html,web_search
+S0529,https://www.dtnext.in/news/tamilnadu/tn-agri-budget-2026-ryots-to-get-post-harvest-assistance,Agri Budget 2026-27 post-harvest,news,core,en,html,web_search
+S0530,https://www.dtnext.in/news/tamilnadu/tn-agri-budget-2026-millet-mission-to-boost-farmer-incomes,Agri Budget 2026-27 millet mission,news,core,en,html,web_search
+S0531,https://www.dtnext.in/news/tamilnadu/tn-agri-budget-2026-special-scheme-to-support-sc-and-st-cultivators,Agri Budget 2026-27 SC/ST scheme,news,core,en,html,web_search
+S0532,https://www.dtnext.in/news/tamilnadu/tn-budget-2026-tamil-nadu-to-provide-rs-17000-crore-in-crop-loans-to-farmers,Agri Budget 2026-27 crop loans,news,core,en,html,web_search
+S0533,https://www.dtnext.in/news/tamilnadu/tn-agri-budget-2026-tvk-govt-to-continue-paddy-seed-subsidy-with-rs-3472-crore-fund,Agri Budget 2026-27 paddy seed subsidy,news,core,en,html,web_search
+S0534,https://www.dtnext.in/news/tamilnadu/tn-budget-2026-govt-bets-on-ai-machine-learning-to-deliver-real-time-assistance-to-farmers,Agri Budget 2026-27 Uzhavar AI,news,core,en,html,web_search
+S0535,https://www.dtnext.in/news/tamilnadu/tn-agri-budget-2026-protection-package-to-save-farmlands,Agri Budget 2026-27 farmland protection,news,core,en,html,web_search
+S0536,https://www.dtnext.in/news/tamilnadu/tn-agri-budget-2026-tamil-nadu-government-to-introduce-quinoa-buckwheat,Agri Budget 2026-27 quinoa/buckwheat,news,core,en,html,web_search
+S0537,https://www.dtnext.in/news/tamilnadu/tn-budget-2026-government-extends-kuruvai-package-to-non-delta-paddy-farmers,Revised Budget 2026-27 Kuruvai package,news,core,en,html,web_search
+S0538,https://telanganatoday.com/tamil-nadu-unveils-first-agriculture-budget-with-focus-on-ai-soil-and-farm-growth,Agri Budget 2026-27 (PTI),news,core,en,html,web_search
+S0539,https://thesouthfirst.com/tamilnadu/from-vetri-vivasayi-awards-to-vetri-illatharasi-home-gardens-whats-new-in-tvks-maiden-agriculture-budget/,What's new in TVK's maiden agri budget,news,core,en,html,web_search
+S0540,https://newsonair.gov.in/tamil-nadu-government-presents-revised-agriculture-budget-for-2026-27-in-the-state-assembly/,AIR - revised agri budget 2026-27,news,core,en,html,web_search
+S0541,https://www.impriindia.com/?p=75572,TN 2026 scheme landscape,news,core,en,html,web_search
+S0542,https://www.dtnext.in/news/tamilnadu/tn-allocates-rs-47248-cr-for-agriculture-in-interim-budget-focus-on-income-security-and-irrigation-expansion,Interim agri budget 2026-27,news,core,en,html,web_search
+S0543,https://theprint.in/india/tn-earmarks-rs-47248-cr-for-agriculture-in-interim-budget-agroforestry-policy-soon/2857050,Interim agri budget 2026-27 (PTI),news,core,en,html,web_search
+S0544,https://www.dtnext.in/news/tamilnadu/tamil-nadu-extends-crop-loan-waiver-to-rs-75000-for-all-eligible-farmers,"Crop loan waiver up to Rs 75,000",news,core,en,html,web_search
+S0545,https://www.deccanchronicle.com/amp/southern-states/tamil-nadu/tn-expands-crop-loan-waiver-scheme-releases-rs-2842-crore-2002700,Crop loan waiver expansion,news,core,en,html,web_search
+S0546,https://www.dtnext.in/news/tamilnadu/farmers-can-apply-for-crop-insurance-without-ids-centre-relaxes-norms-854952,PMFBY farmer-ID relaxation,news,core,en,html,web_search
+S0547,https://www.dtnext.in/news/tamilnadu/tamil-nadu-farmers-get-relief-as-centre-eases-id-rule-for-crop-insurance,PMFBY ID rule eased,news,core,en,html,web_search
+S0548,https://www.dtnext.in/news/tamilnadu/tn-govt-urges-farmers-to-enrol-under-crop-insurance-scheme-before-july-31,PMFBY enrolment,news,core,en,html,web_search
+S0549,https://www.dtnext.in/news/tamilnadu/tamil-nadu-launches-subsidy-scheme-for-100-agriculture-value-addition-centres-846193,100 value-addition centres scheme,news,core,en,html,web_search
+S0550,https://www.dtnext.in/news/tamilnadu/tn-govt-floats-tender-for-agricultural-value-addition-hubs-849508,Value addition hubs tender,news,core,en,html,web_search
+S0551,https://www.dtnext.in/news/tamilnadu/tn-agriculture-budget-2025-26-new-schemes-announced-for-farmers-826357,Agri Budget 2025-26 new schemes,news,core,en,html,web_search
+S0552,https://www.dtnext.in/news/tamilnadu/tn-agri-budget-2025-26-33-jump-in-allocation-will-help-diversify-crops-expand-paddy-farming-says-agri-secy-826402,Agri Budget 2025-26 allocation,news,core,en,html,web_search
+S0553,https://www.dtnext.in/amp/story/news/tamilnadu/tamil-nadu-rs-270-crore-final-phase-of-kalaignars-agri-plan-to-cover-2338-villages-838358,KAVIADP final phase 2025-26,news,core,en,html,web_search
+S0554,https://www.dtnext.in/amp/story/news/tamilnadu/3204-villages-picked-for-agri-development,KAVIADP village selection,news,core,en,html,web_search
+S0555,https://www.dtnext.in/news/tamilnadu/govt-launches-subsidy-scheme-to-boost-agricultural-production-738536,TN Agricultural Mechanisation subsidy,news,core,en,html,web_search
+S0556,https://www.dtnext.in/news/tamilnadu/uzhavar-angadis-to-sell-all-the-agri-products-across-tn-apoorva-769130,Uzhavar Angadi,news,core,en,html,web_search
+S0557,https://www.dtnext.in/news/tamilnadu/tn-s-organic-policy-prepares-field-for-safe-food-soil-health-incentivising-farmers-subsidy-for-bio-fertilizers-and-bio-inputs-among-key-features,Organic policy key features,news,core,en,html,web_search
+S0558,https://eng.ruralvoice.in/tamil-nadu-unveils-45661-crore-agriculture-budget-focusing-on-paddy-sugarcane-and-new-initiatives,Agri Budget 2025-26 (Rural Voice),news,core,en,html,web_search
+S0559,https://thesouthfirst.com/tamilnadu/agriculture-budget-tamil-nadu-focuses-on-micro-irrigation-projects-tech-to-bolster-farming,Agri Budget 2025-26 micro irrigation,news,core,en,html,web_search
+S0560,https://www.thenewsminute.com/tamil-nadu/tn-govt-announces-hill-farmers-development-scheme-in-state-agriculture-budget-2025-26,Hill farmers development scheme,news,core,en,html,web_search
+S0561,https://deccanchronicle.com/nation/paddy-production-to-be-increased-in-tamil-nadu-1867113,CM Farmers Welfare Service Centres,news,core,en,html,web_search
+S0562,https://www.etvbharat.com/en/!state/tamil-nadu-government-allocates-rs-45661-crore-for-agriculture-budget-highlights-enn25031502735,Agri Budget 2025-26 highlights,news,core,en,html,web_search
+S0563,https://www.businessminutes.in/2025/02/nabard-projects-rs-9-38-lakh-crore-credit-potential-for-tamil-nadu-under-priority-sector-for-fy-2025-26.html,NABARD SFP 2025-26 Tamil Nadu,news,core,en,html,web_search
+S0564,https://www.businessminutes.in/2025/11/hdfc-ergo-rolls-out-pmfby-in-tamil-nadu.html,PMFBY Rabi 2025 insurers,news,core,en,html,web_search
+S0565,https://newsable.asianetnews.com/gallery/business/how-to-apply-for-tamil-nadu-100-percent-micro-irrigation-subsidy-scheme-ajr-b4yd54g,How to apply - micro irrigation 100% subsidy,news,core,en,html,web_search
+S0566,https://newsarenaindia.com/states/one-village-one-crop-scheme-to-enhance-state-s-agricultural-production-tamil-nadu/3934,One Village One Crop & Millet Mission 2024-25,news,core,en,html,web_search
+S0567,https://www.inkl.com/news/tamil-nadu-relaxes-rule-for-solar-powered-pump-scheme,PM-KUSUM rule relaxed,news,core,en,html,web_search
+S0568,https://www.indiawaterportal.org/amp/story/agriculture/farm/tamil-nadu-unveils-organic-farming-policy,Organic farming policy (India Water Portal),news,core,en,html,web_search
+S0569,https://zeenews.india.com/tamil/tamil-nadu/subsidy-of-rs-6-lakh-for-setting-up-farmer-welfare-service-center-for-agriculture-graduates-how-to-apply-613033,உழவர் நல சேவை மையம் - ரூ.6 லட்சம் மானியம்,news,core,ta,html,web_search
